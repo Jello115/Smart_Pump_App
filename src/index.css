@@ -98,7 +98,6 @@ li:hover{
   box-shadow: 10px 7px rgba(0, 0, 0, 0.11);
   width: 90%;
   max-width: 420px;
-  transform: scale(1.2);
 }
 
 .context_cont {
