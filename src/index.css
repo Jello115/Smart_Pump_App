@@ -77,17 +77,17 @@ li:hover{
   transition: all 0.3s ease;
 }
 
-.pump-btn.off {
+.pump-btn.on {
   background-color: rgb(173, 14, 14);
 }
-.pump-btn.off:hover {
+.pump-btn.on:hover {
   background-color: rgb(116, 20, 20);
 }
 
-.pump-btn.on {
+.pump-btn.off {
   background-color: rgb(40, 165, 90);
 }
-.pump-btn.on:hover {
+.pump-btn.off:hover {
   background-color: rgb(25, 115, 60);
 }
 
