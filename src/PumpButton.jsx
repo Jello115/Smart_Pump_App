@@ -55,7 +55,7 @@ function PumpButton() {
         onClick={changePumpState}
         className={`pump-btn ${Power_state ? 'on' : 'off'}`}
       >
-        {Power_state ? "TURN ON" : "TURN OFF"}
+        {Power_state ? "TURN OFF" : "TURN ON"}
       </button>
     </div>
   );
